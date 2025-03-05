@@ -57,7 +57,7 @@ Customers aged 20-30 contribute the highest revenue share.
 older age groups 40-50 show potential for higher engagement with personalized offers.
 
 
-✅ Recommendations
+## ✅ Recommendations
 
 1. Seasonal Promotions – Align marketing campaigns with peak sales months.
 
@@ -75,11 +75,11 @@ older age groups 40-50 show potential for higher engagement with personalized of
 
 
 
-📌 Tableau Dashboard
+## 📌 Tableau Dashboard
 
 Explore the interactive Tableau dashboard here https://github.com/onyedika39/Customer-Sales-Dashboard/blob/main/Customer%20Dashboard.jpg.
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Predictive Analytics to forecast revenue and customer trends.
 
