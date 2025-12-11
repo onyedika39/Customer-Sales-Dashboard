@@ -77,7 +77,7 @@ older age groups 40-50 show potential for higher engagement with personalized of
 
 ## 📌 Tableau Dashboard
 
-Explore the interactive Tableau dashboard here https://github.com/onyedika39/Customer-Sales-Dashboard/blob/main/Customer%20Dashboard.jpg.
+!Explore the interactive Tableau dashboard here (https://github.com/onyedika39/Customer-Sales-Dashboard/blob/main/Customer%20Dashboard.jpg).
 
 ## 🚀 Future Enhancements
 
